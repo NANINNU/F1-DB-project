@@ -1,5 +1,7 @@
 ## Descript
 This is DB projecrt.
+- 20241118: UI 설계 완료.
+- 20241120: DB 제작 완료. 팀원들 환경 구성 중...및 백/프론트 엔드 개발 시작.
 
 ## Set Envirnment
 ### server
@@ -27,5 +29,6 @@ https://dbeaver.io/download/
 data get from
 http://ergast.com/mrd/db/
 
+pre progressed data is uploaded with name 'f1db_data'
 ### environment
 python = 3.11(must!)
